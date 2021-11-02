@@ -10,3 +10,7 @@ I created an avatar representation for gitcoin. As per the requested criteria, m
 note: Any suggestions are most welcomed.
 
 ## Traits
+![](https://github.com/Art-Maniac/avatar_bounty_2021/blob/main/Artboard%201rob2.png)
+
+Check out some example in the [**Gallery.**](https://github.com/Art-Maniac/avatar_bounty_2021/tree/main/examples)
+
